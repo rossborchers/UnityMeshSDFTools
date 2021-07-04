@@ -1,1 +1,1 @@
-# UnityFastMeshSdf
+# UnityMeshSDFTools
